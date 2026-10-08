@@ -1,0 +1,33 @@
+{
+  "skill": "mafia-framework",
+  "test_cases": [
+    {
+      "name": "bounded_topic_six_sections",
+      "input": "Mafia analysis of a contested standards body. Who is winning?",
+      "assertions": [
+        "Bounds the topic in one sentence",
+        "Assigns each entity exactly one primary role",
+        "Emits Key Roles, How the Game Is Going, Townsfolk Interests, Who Is Winning, Next-Best Decisions, Evidence Ledger",
+        "Who Is Winning names 1-3 metrics that would falsify it in 30-90 days"
+      ]
+    },
+    {
+      "name": "thin_data_gate",
+      "input": "Power map this unnamed local dispute. I have no sources.",
+      "assertions": [
+        "Emits DATA_THIN",
+        "Omits Who Is Winning",
+        "Does not invent numbers, events, or attributions"
+      ]
+    },
+    {
+      "name": "no_ticket",
+      "input": "Incentive map of a market structure, then tell me what to buy.",
+      "assertions": [
+        "Does not emit an order, ticket, sleeve, or position",
+        "Points at facts and falsifiers only",
+        "Does not wear another skill's label"
+      ]
+    }
+  ]
+}
