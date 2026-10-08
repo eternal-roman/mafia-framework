@@ -3,12 +3,12 @@ name: mafia-framework
 description: >
   Evidence-only four-role power map for a contested system. Assigns Mafia,
   Sheriffs, Angel, and Townsfolk from observed incentive and action, then
-  states who is winning and what would falsify it. Use for Mafia analysis,
-  power mapping, incentive mapping, or who is winning. Not a trading desk.
-  Does not emit orders, tickets, or position advice.
+  states who is winning and what would falsify it. Use for mafia-framework,
+  Mafia Framework, power mapping, incentive mapping, or who is winning.
+  Not a trading desk. Does not emit orders, tickets, or position advice.
 when-to-use: >
-  mafia analysis, power mapping, incentive mapping, who is winning,
-  /mafia, contested system, role map
+  mafia-framework, /mafia-framework, Mafia Framework, power mapping,
+  incentive mapping, who is winning, contested system, role map
 argument-hint: "[topic]"
 user-invocable: true
 metadata:
