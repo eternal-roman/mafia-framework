@@ -1,10 +1,10 @@
-# Mafia Framework
+# mafia-framework
 
-Slash command: `/mafia`
+Slash command: `/mafia-framework`
 
-Evidence-only four-role power map. Assign Mafia, Sheriffs, Angel, and Townsfolk from observed incentive and action. Say who is winning, and name the metric that would falsify it.
+Mafia Framework. Evidence-only four-role power map. Assign Mafia, Sheriffs, Angel, and Townsfolk from observed incentive and action. Say who is winning, and name the metric that would falsify it.
 
-**v1.2.0** — public cut. No private books, no orders, no personal data.
+**v1.2.0** — public cut. Skill name is `mafia-framework`, same as the local label. No private books, no orders, no personal data.
 
 | File | Who it's for |
 |---|---|
@@ -20,7 +20,7 @@ Raw upload: https://raw.githubusercontent.com/eternal-roman/mafia-framework/main
 
 1. Open [grok.com/skills](https://grok.com/skills)
 2. Upload `GROKBOT.md`
-3. Type `/mafia` and name one contested system
+3. Type `/mafia-framework` and name one contested system
 
 **Grok Build / coding agent**
 

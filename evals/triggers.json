@@ -1,10 +1,10 @@
 {
   "skill": "mafia-framework",
   "test_cases": [
-    {"input": "Run a Mafia analysis on this contested system", "should_trigger": true},
-    {"input": "Power mapping: who is winning and why", "should_trigger": true},
-    {"input": "Incentive map of this standards fight", "should_trigger": true},
-    {"input": "/mafia the municipal rate case", "should_trigger": true},
+    {"input": "/mafia-framework this contested system", "should_trigger": true},
+    {"input": "Run mafia-framework on this contested system", "should_trigger": true},
+    {"input": "Mafia Framework: who is winning and why", "should_trigger": true},
+    {"input": "Power mapping: who is winning", "should_trigger": true},
     {"input": "Write a Python sort", "should_trigger": false},
     {"input": "Place a limit order", "should_trigger": false},
     {"input": "Summarize this novel", "should_trigger": false}
