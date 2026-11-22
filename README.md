@@ -2,9 +2,7 @@
 
 Slash command: `/mafia-framework`
 
-Mafia Framework. Evidence-only four-role power map. Assign Mafia, Sheriffs, Angel, and Townsfolk from observed incentive and action. Say who is winning, and name the metric that would falsify it.
-
-**v1.2.0** — public cut. Skill name is `mafia-framework`, same as the local label. No private books, no orders, no personal data.
+A Grok skill that maps who holds power in a contested system. It assigns Mafia, Sheriffs, Angel and Townsfolk from observed incentives and actions, says who is winning, and names the metric that would falsify it. **v1.2.0.** No private books, orders or personal data.
 
 | File | Who it's for |
 |---|---|
